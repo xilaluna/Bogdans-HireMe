@@ -1,0 +1,17 @@
+img{
+    width:150px;
+    height:150px;
+}
+h1{ font-family: 'Open Sans', sans-serif;
+    color:blue;
+}
+
+p{ font-family: 'Sarala', sans-serif;
+}
+h2{ font-family: 'Open Sans', sans-serif;
+ color:blue;
+}
+ul{ font-family: 'Lato', sans-serif;
+}
+body{ background-color: rgb(244, 66, 104);
+}
